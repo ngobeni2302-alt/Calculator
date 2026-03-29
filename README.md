@@ -5,8 +5,9 @@ Ntsako reporting for duty...
 # What Am I Doing?
 
 So the plan is to learn how to have a system running without data or web. Just like a normal phone calculator.
-So I qill be creating a calculator with the help of Youtube videos. 
+So I will be creating a calculator with the help of Youtube videos. 
 
+After a 3 to 5 day work, I was able to complete the calculator but the square root is not working... I still have to figure that one out on how to use it or make it work
 # What Does It Do?
 
 Well my aim is to have it do the following:
